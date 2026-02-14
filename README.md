@@ -64,7 +64,7 @@ FinOS-AIDriven/         # Project Root
 
     ```bash
     export GROQ_API_KEY="your_groq_key_here"
-    export AV_API_KEY="your_alpha_vantage_key_here"
+    export ALPHA_VANTAGE_API_KEY="your_alpha_vantage_key_here"
     ```
 
 
