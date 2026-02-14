@@ -1,0 +1,5 @@
+Starting analysis for NVDA...
+--- Harvest Agent starting scan for NVDA ---
+--- Quant Agent: Calculating 180-day trend for NVDA ---
+--- Strategist Agent: Synthesizing report for NVDA ---
+{'symbol': 'NVDA', 'current_price': 182.81, 'statistical_projection': 271.28, 'final_projection_price': 285.0, 'expected_return_pct': 55.88, 'market_sentiment': 'Bullish', 'sentiment_logic': "The market intelligence news headlines suggest a positive outlook for the tech industry, with Rivian surging over 20% and Apple, Google, Amazon, and Nvidia being mentioned as hitting indexes, which indicates a strong performance from major players in the sector. Although DraftKings stock dropped, it does not directly impact NVDA's projection. The overall tone is bullish, supporting the statistical trend.", 'confidence_score': 80}

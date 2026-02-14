@@ -1,0 +1,5 @@
+# Dev
+tox
+black
+isort
+pytest
